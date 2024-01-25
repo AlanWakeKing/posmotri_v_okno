@@ -175,7 +175,6 @@ ol {
 	background-color: transparent;
 	cursor: pointer;
 	inline-size: 100%;
-	margin-top: 20px;
 }
 
 .button:active {
@@ -224,12 +223,8 @@ ol {
 	min-width: 418px;
 }
 
-.content__list-item {
-	margin-bottom: 30px;
-}
-
 .content__list-item:not(:last-child) {
-	margin: 0 0 34px;
+	margin: 0 0 30px;
 }
 
 .content__card-link {
